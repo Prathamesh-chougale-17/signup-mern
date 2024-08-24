@@ -25,7 +25,7 @@ Before running the project, ensure you have the following installed:
 ## Setting Up
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/saijeet007/Signup-Assignment.git
+git clone https://github.com/Prathamesh-chougale-17/signup-mern.git
 ```
 
 ## Running the Project Locally
